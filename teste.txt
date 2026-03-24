@@ -4,3 +4,4 @@ Testando repo 12*
 Para adicionar arquivos novos a um projeto utilizando o GIT ADD minusculo 
 git add " nome do arquivo completo "
 git add . " para adicionar todos os arquivos no projeto
+vv
